@@ -44,10 +44,10 @@ You can also get this from http://pirsquared.org/mirror_data/test_v1_data.txt
  - Average on runs and off runs, take difference
  - Identify peaks in difference
    - Glx is peaks 1 and 2 (from right as shown)
-   - GABA is the next ? Cluster
+   - GABA is peak 3 from right (or cluster of peaks depending on data quality)
  - Find baseline using specific regions of the spectrum that we know shouldn't change
  - Calculate area between peak and baseline
  - Sum On + Off and find creatine peak
     - Separate regions are used as baseline
- - Ratio of GABA:Creatine, and perform 'adjustments' (determined by physicists)
+ - Ratio of GABA:Creatine, Glx:Creatine, and NAA:Creatine and perform 'adjustments' (determined by physicists)
 
