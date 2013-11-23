@@ -16,6 +16,9 @@ Clone above repo, then:
     git annex init <name for your local repo>
     git annex get
 
+You can also get this from http://pirsquared.org/mirror_data/test_v1_data.txt
+(and you could find that via `git annex whereis test_v1_data.txt`).
+
 ## Tasks
 
  - Translate
