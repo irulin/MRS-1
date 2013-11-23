@@ -13,8 +13,8 @@ https://github.com/dlab-berkeley/MRS
 
 Clone above repo, then:
 
-git annex init <name for your local repo>
-git annex get
+    git annex init <name for your local repo>
+    git annex get
 
 ## Tasks
 
