@@ -11,7 +11,7 @@ function [spectra, Peak_ratios, Metabolites] = read_jMRUI_txt()
 % igreenhouse@berkeley.edu August, 2013
 clear all
 %% Edit These Parameters
-
+%% lalala
 % xrange = 1300:2000; % 1300:2000 is specific to 1536 zero fill from UC Berkeley DICOM
 % xrange = 1600:2300; % 1600:2300 is specific to 2048 zero fill from UC Berkeley DICOM
 xrange = 1325:1925; % 1300:2000 is specific to 2048 zero fill from UC Berkeley RDA
